@@ -37,7 +37,7 @@ An interactive Power BI dashboard analyzing store sales performance across India
 ## How to View
 Since this is a Power BI file, you'll need Power BI Desktop (free) to open it interactively:
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-2. Clone/download this repo and open `store-sales-dashboard.pbix`
+2. Clone/download this repo and open `Store Sales Dashboard.pbix`
 3. Use the month slicer on the left to filter by month and explore
 
 Alternatively, view the static screenshots above for a quick overview without installing anything.
