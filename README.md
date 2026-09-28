@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing store sales performance across India — covering revenue trends, top-selling products, payment method preferences, and customer satisfaction.
 
 ## Dashboard Preview
-![Store Sales Dashboard](Store sales dashboard.png)
+[Store Sales Dashboard](dashboard-.png)
 
 ## Key Metrics Tracked
 - **Total Sales:** 64M
